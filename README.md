@@ -86,10 +86,7 @@ pip install python-dotenv
 ```
 ├── Bot_SECURE.py           # Main bot script (token/API safe)
 ├── .env                    # Environment variables (not committed)
-├── Pisica.gif              # Animated asset
-├── song.mp3                # Sample audio file
-├── ffmpeg/...              # FFmpeg directory (for playback)
-├── Librarii utilizate.txt  # List of libraries used
+├── requirements.txt        # List of libraries used
 ```
 
 ---
