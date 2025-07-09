@@ -68,16 +68,16 @@ pip install python-dotenv
 ## 📸 Screenshots
 
 ### 🎵 Music Playback with `!play`
-![Music Playback](da77ce66-9601-4dc4-9dd9-99f8b3bb2608.png)
+![Music Playback](Screenshot_1.png)
 
 ### ⏭️ Skipping Songs with `!skip`
-![Skip Command](edd2039e-5c54-4201-870f-af95c8b52422.png)
+![Skip Command](Screenshot_2.png)
 
 ### 📰 News Command with `!news`
-![News Command](30d162e5-ff90-41cb-9afa-35cac5f5c5c5.png)
+![News Command](Screenshot_3.png)
 
 ### 🌤️ Weather Info with `!weather`
-![Weather Command](dc06e289-1bfa-46ce-a9cc-a4774b6b2369.png)
+![Weather Command](Screenshot_4.png)
 
 ---
 
